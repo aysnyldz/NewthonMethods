@@ -1,10 +1,10 @@
 # Newton-Type Methods Project
 
-0. Abstract
-1. Introduction
-2. Previous Work
-3. Conclusions
-4. References
+## 0. Abstract 
+## 1. Introduction
+## 2. Previous Work
+## 3. Conclusions
+## 4. References
 
 - Gradient Method 
 - Trust-region Method 
@@ -15,7 +15,9 @@
 | Trust-region  | O(logn)       |              |
  
 
-- [ ] \(Optional) Compare
-- [ ] \(Optional) Highlight design
-- [ ] \(Optional) Highlight algorithm
-- [ ] \(Optional) Complexity analysis
+- [ ] \ Compare
+- [ ] \ Highlight design
+- [ ] \ Highlight algorithm
+- [ ] \ Complexity analysis
+
+[For License](../blob/master/LICENSE)
