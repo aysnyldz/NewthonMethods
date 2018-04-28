@@ -15,9 +15,9 @@
 | Trust-region  | O(logn)       |              |
  
 
-- [ ] \ Compare
-- [ ] \ Highlight design
-- [ ] \ Highlight algorithm
-- [ ] \ Complexity analysis
+- [ ] Compare
+- [ ] Highlight design
+- [ ] Highlight algorithm
+- [ ] Complexity analysis
 
-[For License](../blob/master/LICENSE)
+[For License](../master/LICENSE.txt)
