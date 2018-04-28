@@ -1,2 +1,4 @@
-# Newthon Methods Project
-## Gradient Method 
+# Newton-Type Methods Project
+##- Gradient Method 
+##- Trust-region Method 
+
