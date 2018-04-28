@@ -1,1 +1,2 @@
 # NewthonMethodsProject
+Gradient method researched
