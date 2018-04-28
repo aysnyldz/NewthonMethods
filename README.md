@@ -1,1 +1,1 @@
-# NewthonMethods
+# NewthonMethodsProject
