@@ -1,2 +1,2 @@
-# NewthonMethodsProject
-Gradient method researched
+## Newthon Methods Project
+# Gradient Method 
