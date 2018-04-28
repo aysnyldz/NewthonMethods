@@ -15,7 +15,7 @@
 | Trust-region  | O(logn)       |              |
  
 
->Compare
->Highlight design
->Highlight algorithm
->Complexity analysis
+ -[x] Compare
+ -[x] Highlight design
+ -[x] Highlight algorithm
+ -[x] Complexity analysis
